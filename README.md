@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel. I do stuff with computers. If I had to give myself a title for my current type of work, it would me automation engineer. My day-to-day work currently involves working with [AWS CDK] and [Ansible].
+I'm Daniel. I do stuff with computers. If I had to give myself a title for my current type of work, it would be automation engineer. My day-to-day work currently involves working with [AWS CDK] and [Ansible].
 
 I'm born and living in [Frankfurt] 🇩🇪. In between though I've been living for 16 years in [Berlin] 🇩🇪 and 3 years in [Udon Thani] 🇹🇭. I'm married and I have 3 children.
 
