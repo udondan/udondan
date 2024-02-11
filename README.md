@@ -8,16 +8,18 @@ I've been working for almost 9 years at [Groupon]. It was a great experience wit
 
 I'm currently working for [DB Systel], the IT branch of the Deutsche Bahn, trying to improve and reduce cost for public transportation. Chuu chuu! 🚆 🌳 🌞
 
-My favorite programming language is Go, though I have recently learned to love TypeScript. I'm sure this list won't be complete but I have also worked with: Python, Ruby, C++, C#, Swift, PHP, JavaScript, ActionScript, HTML, CSS, ...
+My favorite programming language is Go, though I have learned to love TypeScript. I'm sure this list won't be complete but I have also worked with: Rust, Python, Ruby, C++, C#, Swift, PHP, JavaScript, ActionScript, HTML, CSS, ...
 
-My current pet project is [IAM Floyd][iam-floyd], an AWS IAM statement generator with a fluent interface.
+My current pet projects are:
+  - [IAM Floyd][iam-floyd]: An AWS IAM statement generator with a fluent interface.
+  - [cfn-teleport]: A command-line tool which can move CloudFormation resources between stacks 
 
-You can learn more about my career on my [landingpage]. If you want to 📫 contact me, please reach out on [Keybase] or [Twitter].
+You can learn more about my career on my [landingpage]. If you want to 📫 contact me, please reach out on [Keybase].
 
    [landingpage]: https://www.udondan.com/
    [Keybase]: https://keybase.io/udondan
-   [Twitter]: https://twitter.com/udondan
    [iam-floyd]: https://github.com/udondan/iam-floyd
+   [cfn-teleport]: https://github.com/udondan/cfn-teleport
    [Groupon]: https://en.wikipedia.org/wiki/Groupon
    [Udon Thani]: https://en.wikipedia.org/wiki/Udon_Thani
    [Frankfurt]: https://en.wikipedia.org/wiki/Frankfurt
