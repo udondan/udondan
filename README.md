@@ -1,29 +1,34 @@
 ### Hi there 👋
 
-I'm Daniel. I do stuff with computers. If I had to give myself a title for my current type of work, it would be automation engineer. My day-to-day work currently involves working with [AWS CDK] and [Ansible].
+I'm Daniel, a software engineer with 20+ years of experience. I do stuff with computers – these days mostly by teaching AI agents to do stuff with computers.
 
-I'm born and living in [Frankfurt] 🇩🇪. In between though I've been living for 16 years in [Berlin] 🇩🇪 and 3 years in [Udon Thani] 🇹🇭. I'm married and I have 3 children.
+Since 2019 I've been working at [DB Systel](https://www.dbsystel.de/dbsystel-en), the IT branch of Deutsche Bahn, helping to make public transportation better and cheaper to run. Chuu chuu! 🚆 🌳 🌞 My day job revolves around AWS, CDK, Ansible and infrastructure automation.
 
-I've been working for almost 9 years at [Groupon]. It was a great experience with awesome people, but I ultimately decided I did no longer want to waste my life maxing out  profits and sell electronic and plastic crap nobody needs, just so more of it can be produced.
+My current focus is **AI tooling**: I build SDKs, CLIs, MCP servers and skills that let agents work with real-world systems – from cloud infrastructure to my kids' school and learning apps. If a service doesn't have an API, I'll probably write one.
 
-I'm currently working for [DB Systel], the IT branch of the Deutsche Bahn, trying to improve and reduce cost for public transportation. Chuu chuu! 🚆 🌳 🌞
+I'm born and living in [Frankfurt](https://en.wikipedia.org/wiki/Frankfurt) 🇩🇪, with 16 years in [Berlin](https://en.wikipedia.org/wiki/Berlin) 🇩🇪 and 3 years in [Udon Thani](https://en.wikipedia.org/wiki/Udon_Thani) 🇹🇭 in between. Married, 3 children.
 
-My favorite programming language is Go, though I have learned to love TypeScript. I'm sure this list won't be complete but I have also worked with: Rust, Python, Ruby, C++, C#, Swift, PHP, JavaScript, ActionScript, HTML, CSS, ...
+My favorite language is Go, though I've learned to love TypeScript. Also worked with Rust, Python, Ruby, Swift, C++, C#, PHP and a bunch more.
 
-My current pet projects are:
-  - [IAM Floyd][iam-floyd]: An AWS IAM statement generator with a fluent interface.
-  - [cfn-teleport]: A command-line tool which can move CloudFormation resources between stacks 
+#### 👨‍👩‍👧‍👦 Family & school
 
-You can learn more about my career on my [landingpage]. If you want to 📫 contact me, please reach out on [Keybase].
+- [duolingo](https://github.com/udondan/duolingo): Duolingo API client library and MCP server
+- [switch-parental-controls](https://github.com/udondan/switch-parental-controls): CLI and MCP server for Nintendo Switch Parental Controls
+- [anton](https://github.com/udondan/anton): SDK, CLI, MCP server and agent skill for the [anton.app](https://anton.app) learning platform
+- [lanis-mcp](https://github.com/udondan/lanis-mcp): MCP server for Schulportal Hessen (Lanis)
+- [dsbmobile](https://github.com/udondan/dsbmobile): SDK, CLI and MCP server for DSBmobile – German school substitution plans
 
-   [landingpage]: https://www.udondan.com/
-   [Keybase]: https://keybase.io/udondan
-   [iam-floyd]: https://github.com/udondan/iam-floyd
-   [cfn-teleport]: https://github.com/udondan/cfn-teleport
-   [Groupon]: https://en.wikipedia.org/wiki/Groupon
-   [Udon Thani]: https://en.wikipedia.org/wiki/Udon_Thani
-   [Frankfurt]: https://en.wikipedia.org/wiki/Frankfurt
-   [Berlin]: https://en.wikipedia.org/wiki/Berlin
-   [AWS CDK]: https://aws.amazon.com/cdk/
-   [Ansible]: https://en.wikipedia.org/wiki/Ansible_(software)
-   [DB Systel]: https://www.dbsystel.de/dbsystel-en
+#### 🤖 AI & productivity
+
+- [avanti](https://github.com/udondan/avanti): A stateful package manager for arbitrary text files – compose `CLAUDE.md`/`AGENTS.md` and shared configs from any source, with diff, history and rollback
+- [reminders-cli](https://github.com/udondan/reminders-cli): CLI for Apple Reminders with JSON output, batch edits and repeating reminders – made for agents
+
+#### ☁️ AWS
+
+- [IAM Floyd](https://github.com/udondan/iam-floyd): AWS IAM policy statement generator with a fluent interface
+- [cfn-teleport](https://github.com/udondan/cfn-teleport): Move CloudFormation resources across and within stacks
+- [cdk-ec2-key-pair](https://github.com/udondan/cdk-ec2-key-pair): AWS CDK construct for managing EC2 key pairs
+
+<sub>Previously: almost 9 years at Groupon.</sub>
+
+More about me and my career on my [landing page](https://www.udondan.com/).
