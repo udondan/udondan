@@ -14,8 +14,8 @@ My favorite language is Go, though I've learned to love TypeScript. Also worked 
 
 - [duolingo](https://github.com/udondan/duolingo): Duolingo API client library and MCP server
 - [switch-parental-controls](https://github.com/udondan/switch-parental-controls): CLI and MCP server for Nintendo Switch Parental Controls
-- [anton](https://github.com/udondan/anton): SDK, CLI, MCP server and agent skill for the [anton.app](https://anton.app) learning platform
-- [lanis](https://github.com/udondan/lanis): SDK, CLI, and MCP server for Schulportal Hessen (Lanis)
+- [anton](https://github.com/udondan/anton): SDK, CLI and MCP server and agent skill for the [anton.app](https://anton.app) learning platform
+- [lanis](https://github.com/udondan/lanis): SDK, CLI and MCP server for Schulportal Hessen (Lanis)
 - [dsbmobile](https://github.com/udondan/dsbmobile): SDK, CLI and MCP server for DSBmobile – German school substitution plans
 
 #### 🤖 AI & productivity
